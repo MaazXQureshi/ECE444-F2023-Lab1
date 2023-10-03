@@ -6,3 +6,7 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky
 
 ![](images/Lab3Act2.JPG)
 
+**Activity 3**
+
+![](images/Lab3Act3.JPG)
+
