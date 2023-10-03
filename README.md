@@ -2,3 +2,7 @@
 
 This repo is a clone of https://github.com/miguelgrinberg/flasky
 
+**Activity 2**
+
+![](images/Lab3Act2.JPG)
+
